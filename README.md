@@ -1,2 +1,2 @@
-Developer, Data Science and Data Engineering.
+Developer, Data Science and Engineering.
 
